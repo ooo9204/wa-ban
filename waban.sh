@@ -14,6 +14,7 @@ banner()
 {
 clear
 pkg install toilet -y
+clear
 echo -e ""
 toilet --filter metal 'WHATSAPP NUMBER BANNING'
 sleep 7
