@@ -1,0 +1,2 @@
+# wa-ban
+WHATSAPP BANNING TOOL
